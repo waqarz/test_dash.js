@@ -1,0 +1,7 @@
+http://vm2.dashif.org/livesim/testpic_2s/Manifest.mpd
+http://vm2.dashif.org/livesim/start_1800/testpic_2s/Manifest.mpd
+http://vm2.dashif.org/livesim/mup_300/tsbd_500/testpic_2s/Manifest.mpd
+http://vm2.dashif.org/livesim/periods_20/testpic_2s/Manifest.mpd
+http://dash.edgesuite.net/dash264/TestCases/1a/netflix/exMPD_BIP_TC1.mpd
+http://dash.edgesuite.net/dash264/TestCasesHD/2b/DTV/1/live.mpd
+http://wams.edgesuite.net/media/SintelTrailer_MP4_from_WAME/sintel_trailer-1080p.ism/manifest(format=mpd-time-csf)
